@@ -276,7 +276,7 @@ qtconsole @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_
 QtPy @ file:///opt/conda/conda-bld/qtpy_1649073884068/work
 queuelib==1.5.0
 regex @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_978efa21-43f5-4f43-9f25-acd8393817ddce2xcjaf/croots/recipe/regex_1658257186496/work
-requests==2.22.0
+requests==2.31.0
 requests-file @ file:///Users/ktietz/demo/mc3/conda-bld/requests-file_1629455781986/work
 rope @ file:///opt/conda/conda-bld/rope_1643788605236/work
 rsa @ file:///tmp/build/80754af9/rsa_1614366226499/work
