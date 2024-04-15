@@ -1,6 +1,6 @@
 # world_terror_incidents_visualizations
 
-## Using Superset
+## Using Apache Superset
 
 ![alt text](https://github.com/johnfkraus/world_terror_incidents_visualizations/blob/master/superset-8-979-terror-incidents-december-2009-to-september-2010-2024-03-21T20-14-30.978Z.jpg "8,979 Terror Incidents Represented Graphically Across Time, Location, Perpetrators and Weapons")
 
