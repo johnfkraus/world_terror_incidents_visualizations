@@ -4,4 +4,6 @@ env
 .ipynb_checkpoints
 
 .DS_Store
-~$incidents-notbar.xlsx
+~$*
+
+~$world_terror_incidents_3.xlsx
