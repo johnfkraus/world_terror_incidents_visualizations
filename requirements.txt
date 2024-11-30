@@ -44,7 +44,7 @@ Bottleneck @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs
 brotlipy==0.7.0
 cached-property==1.5.2
 cachetools @ file:///tmp/build/80754af9/cachetools_1619597386817/work
-certifi==2019.9.11
+certifi==2023.7.22
 cffi @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_62rp5d8fd4/croots/recipe/cffi_1659598655556/work
 chardet==3.0.4
 charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
