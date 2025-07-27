@@ -6,6 +6,9 @@
 
 ## Using TIBCO Spotfire
 
-
 ![alt text](https://github.com/johnfkraus/world_terror_incidents_visualizations/blob/e2004c72e975fbf4cd461437a8e82694c0ff7751/visualizations/tibco_spotfire_rendering.png "Terrorist Incidents Represented Graphically Across Time, Location, Perpetrators and Weapons")
+
+## Using Pandas / Matplotlib / Seaborn
+
+![](https://github.com/johnfkraus/world_terror_incidents_visualizations/blob/91bb5b3e281150a8720b7e26143b523303ede42d/visualizations/death_per_incident_pd.png)
 
