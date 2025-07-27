@@ -5,5 +5,7 @@ env
 
 .DS_Store
 ~$*
+*.swp
+
 
 ~$world_terror_incidents_3.xlsx
