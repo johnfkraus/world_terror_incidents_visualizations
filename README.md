@@ -12,3 +12,4 @@
 
 ![](https://github.com/johnfkraus/world_terror_incidents_visualizations/blob/91bb5b3e281150a8720b7e26143b523303ede42d/visualizations/death_per_incident_pd.png)
 
+![](https://github.com/johnfkraus/world_terror_incidents_visualizations/blob/79a3c5ffdb4931804d5b0043da9924acf8a48388/visualizations/incidents_by_country_pd.png)
